@@ -1,5 +1,5 @@
 # Pack-man-mit-lab
-##Description
+## Description
 This is a Pack-man animation where four pictures are linked objects, then iterated to simulate mouth movement. The movement continues within the screen boundaries. When it reaches the Boundary it reverses course.
 ### Future Improvements
 *add background with maze boundaries
