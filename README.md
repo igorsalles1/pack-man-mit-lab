@@ -6,3 +6,4 @@ This is a Pack-man animation where four pictures are linked objects, then iterat
 * Have Pack-Man follow commands
 * Add content for Pack-Man to consume
 #### MIT License
+Open index.html to run
